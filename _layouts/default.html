@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+{% include blog-head.html %}
+
+<body>
+  {% include header.html %}
+  <main>
+    <section>
+      <article>{{ content }}</article>
+    </section>
+    {% include footer.html %}
+  </main>
+  <!--  Syntax highlighting -->
+  <script src="/assets/js/prism.js"></script>
+  <script src="/assets/js/script.js"></script>
+
+</body>
+
+</html>
