@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /indexblog/
+permalink: /about/
 ---
 
-This is blog index page. I have list of posts here below:-
+This is page about me. I have list of posts in blog link.
